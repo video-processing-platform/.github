@@ -5,7 +5,7 @@
 **A scalable, cloud-native video processing platform built with Go, Laravel, gRPC, RabbitMQ, Docker, and Kubernetes.**
 
 [![Go](https://img.shields.io/badge/Go-1.25-00ADD8?logo=go&logoColor=white)](https://go.dev/)
-[![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Enabled-FF6600?logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![gRPC](https://img.shields.io/badge/gRPC-Enabled-244C5A)](https://grpc.io/)
